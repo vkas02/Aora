@@ -1,4 +1,3 @@
 "# React-Native" 
 "# Aora" 
-"# Aora"
-"# Aora" 
+A full Stack application built using React Native and appwrite backend
